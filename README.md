@@ -1,3 +1,2 @@
-# job_recruitment
+# jobs-india
 
-this website combination of job seekers and recruiters
